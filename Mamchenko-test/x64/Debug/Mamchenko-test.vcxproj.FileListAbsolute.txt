@@ -1,0 +1,3 @@
+C:\KPIfiles\sem5\SP\lab4\Mamchenko-test\x64\Debug\gtest.pdb
+C:\KPIfiles\sem5\SP\lab4\Mamchenko-test\x64\Debug\gtest_main.pdb
+C:\KPIfiles\sem5\SP\lab4\Mamchenko-test\Mamchenko-test\x64\Debug\Mamchenk.2B987C97.Up2Date
